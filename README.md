@@ -1,3 +1,11 @@
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sushil%20Vatane&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sushilvatane07">
+    <img src="https://komarev.com/ghpvc/?username=sushilvatane07&label=Profile%20views&color=00FFFF&style=flat-square" alt="sushilvatane07's profile views" />
+  </a>
+</p>
 # About Me:
 Information Technology Student | Aspiring Data Analyst<br>IT student with hands-on skills in Python, SQL, Excel, and ReactJS, focused on building reliable, data-driven software solutions. Experienced in database management and web development, with a growing interest in AI/ML and cybersecurity. Passionate about turning data into actionable insights and eager to contribute to open-source projects and real-world software solutions through continuous learning and hands-on collaboration.
 
