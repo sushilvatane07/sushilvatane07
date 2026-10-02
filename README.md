@@ -22,7 +22,6 @@ Information Technology Student | Aspiring Data Analyst<br>IT student with hands-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sushilvatane07&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sushilvatane07&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/SushilVatane) 
