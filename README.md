@@ -8,7 +8,7 @@
 </p>
 
 # About Me:
-Information Technology Student | Aspiring Data Analyst<br>IT student with hands-on skills in Python, SQL, Excel, and ReactJS, focused on building reliable, data-driven software solutions. Experienced in database management and web development, with a growing interest in AI/ML and cybersecurity. Passionate about turning data into actionable insights and eager to contribute to open-source projects and real-world software solutions through continuous learning and hands-on collaboration.
+Information Technology Student | Aspiring Data Engineer <br>IT student with hands-on skills in Python, SQL, Excel, and ReactJS, focused on building reliable, data-driven software solutions. Experienced in database management and web development, with a growing interest in AI/ML and cybersecurity. Passionate about turning data into actionable insights and eager to contribute to open-source projects and real-world software solutions through continuous learning and hands-on collaboration.
 
 
 ## 🌐 Socials:
